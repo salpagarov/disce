@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+hugo server -M --disableFastRender --noHTTPCache --noBuildLock --gc
