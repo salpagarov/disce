@@ -18,14 +18,14 @@ bookToc: false
 {{% /columns %}}
 
 # Маленькая библиотека
-- [Программирование в двух словах](programming)
-- [Маленькая книга о Lua](TLBx/lua)
-- [Маленькая книга о блокчейне](TLBx/blockchain)
+- [Программирование в двух словах](TLB/programming)
+- [Маленькая книга о Lua](TLB/lua)
+- [Маленькая книга о блокчейне](TLB/blockchain)
 
 # Черновики
-- [Совсем другая книга о Go](TLBx/golang) 
-- [Про сети](TLBx/networks)
-- [Маленькая книга о Python](TLBx/python)
+- [Совсем другая книга о Go](TLB/golang) 
+- [Про сети](TLB/networks)
+- [Маленькая книга о Python](TLB/python)
 - [Инфобез для самых маленьких](infosecurity)
 - [Базы данных](databases)
 

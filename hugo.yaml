@@ -14,6 +14,7 @@ markup:
       unsafe: true
   tableOfContents:
     startLevel: 2
+    endLevel: 2
 
 # Multi-lingual mode config
 # There are different options to translate files
