@@ -1,3 +1,3 @@
 # Disce aut Discede
 
-https://atrax.tech/
+![hugo](https://github.com/salpagarov/disce/actions/workflows/hugo.yml/badge.svg)
