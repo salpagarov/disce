@@ -1,5 +1,5 @@
 ---
-title: "Программирование"
+title: Программирование
 type: docs
 bookToc: false
 ---
